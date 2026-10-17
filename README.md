@@ -1,7 +1,7 @@
 # Hi, I’m Elliot Shohet
 
 
-Full-stack Engineer in Los Angeles, open to fullstack engineering roles in LA or remote. I build web, mobile, and AI-powered products from the first line of code through launch.
+Full-Stack Engineer in Los Angeles, open to full-stack engineering roles in LA or remote. I build web, mobile, and AI-powered products from the first line of code through launch.
 
 
 [Website](https://elliotshohet.com) · [LinkedIn](https://www.linkedin.com/in/elliotshohet/) · [Résumé](https://elliotshohet.com/elliot-shohet-resume.pdf) · [Email](mailto:elliot.shohet@gmail.com)
