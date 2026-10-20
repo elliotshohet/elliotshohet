@@ -1,7 +1,7 @@
 # Hi, I’m Elliot Shohet
 
 
-Full-Stack Engineer in Los Angeles, open to full-stack engineering roles in LA or remote. I build web, mobile, and AI-powered products from the first line of code through launch.
+Full-stack Engineer in Los Angeles, open to full-stack engineering roles in LA or remote. I build web, mobile, and AI-powered products from the first line of code through launch.
 
 
 [Website](https://elliotshohet.com) · [LinkedIn](https://www.linkedin.com/in/elliotshohet/) · [Résumé](https://elliotshohet.com/elliot-shohet-resume.pdf) · [Email](mailto:elliot.shohet@gmail.com)
@@ -31,6 +31,7 @@ I started programming at 12 and earned a B.S. in Computer Science from UC Davis.
 ## Selected projects
 
 
+- **[Freecoda](https://freecoda.com/)** — Open-source AI agent for web, desktop, and terminal. I built the shared TypeScript agent, CLI, Electron app, Next.js service, permission reviews, and usage accounting. The desktop app is in public beta; hosted AI is invite-only. [Source](https://github.com/elliotshohet/freecoda)
 - [Personal website](https://elliotshohet.com) — Next.js portfolio with a theme toggle, résumé, and project history. [Source](https://github.com/elliotshohet/website)
 - **Machine Learning & Doodle Jump** — A university project applying a variant of Q-learning to an HTML5 game.
 - **Music Controller** — A Chrome extension and desktop app using WebSockets to control music across applications.
